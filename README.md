@@ -1,4 +1,4 @@
-# testimonial-
+# testimonial
 # Frontend Mentor - Testimonials grid section solution 
 
 ## Table of contents
@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/meghaspatil1/testimonial-](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://meghaspatil1.github.io/testimonial/](https://your-live-site-url.com)
 
 ## My process
 
@@ -50,5 +50,5 @@ some more grip in grid-area, slight confusions, for more deveopement.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [https://meghaspatil1.github.io/testimonial/](https://www.your-site.com)
 - Frontend Mentor - [@meghapatil1](https://www.frontendmentor.io/profile/meghapatil1)
